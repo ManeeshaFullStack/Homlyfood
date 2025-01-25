@@ -94,7 +94,7 @@ body {
 .main-nav {
   display: flex;
   margin-right: 0px;
-  gap: 1.5rem;
+  gap: 2.5rem;
   font-size: 2rem;
   align-items: center;
 }
@@ -104,9 +104,7 @@ SUMMARY AND HERO SECTION
 ********************************************** */
 
 .Summary {
-  gap: 8%;
-  justify-content: space-between;
-  max-width: 85%;
+  max-width: 130rem;
   display: grid;
   grid-template-columns: 1fr 1fr;
   margin: 0 auto;
@@ -293,7 +291,7 @@ HOW IT WORKS SECTION
   padding: 15rem 0rem;
   border-radius: 47%;
   position: absolute;
-  left: 58.7%;
+  left: 59%;
   margin-top: 4.2rem;
   z-index: -2;
 }
@@ -306,7 +304,7 @@ HOW IT WORKS SECTION
   padding: 13rem 0rem;
   border-radius: 51%;
   position: absolute;
-  left: 61.8%;
+  left: 62.2%;
   margin-top: 6.5rem;
   z-index: -1;
 }
@@ -318,7 +316,7 @@ HOW IT WORKS SECTION
   padding: 15rem 0rem;
   border-radius: 47%;
   position: absolute;
-  right: 58.7%;
+  right: 59%;
   margin-top: 4.5rem;
   z-index: -2;
 }
@@ -330,7 +328,7 @@ HOW IT WORKS SECTION
   padding: 13rem 0rem;
   border-radius: 51%;
   position: absolute;
-  right: 61.8%;
+  right: 62.2%;
   margin-top: 6.5rem;
   z-index: -1;
 }

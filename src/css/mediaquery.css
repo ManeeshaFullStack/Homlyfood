@@ -1,0 +1,26 @@
+@media (max-width: 85em) {
+  .container {
+    background-color: rgb(106, 0, 255);
+  }
+  .pricing-plans {
+    column-gap: 60px;
+  }
+
+  .app-1::before,
+  .app-3::before {
+    left: 61.3%;
+  }
+
+  .app-1::after,
+  .app-3::after {
+    left: 64.3%;
+  }
+
+  .app-2::before {
+    right: 61.3%;
+  }
+
+  .app-2::after {
+    right: 64.3%;
+  }
+}
